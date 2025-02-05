@@ -29,5 +29,3 @@ PixelCNN is a deep learning model designed for image generation based on conditi
 ![Generation Animation](animations/raster_scan_1.gif)  
 ![Generation Animation](animations/raster_scan_2.gif)  
 ![Generation Animation](animations/raster_scan_3.gif)  
-
-
