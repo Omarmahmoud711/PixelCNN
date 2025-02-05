@@ -25,13 +25,14 @@ PixelCNN is a deep learning model designed for image generation based on conditi
 
 ## Generation Animation
 
-Below is a GIF illustrating the step-by-step image completion process:
+![Generation Animation](animations/raster_scan_0.gif)  
+![Generation Animation](animations/raster_scan_1.gif)  
+![Generation Animation](animations/raster_scan_2.gif)  
+![Generation Animation](animations/raster_scan_3.gif)  
 
-![Generation Animation](path/to/your/gif.gif)  
-*(Replace with actual GIF path)*
 
 
-This implementation is based on the original PixelCNN paper by Aaron van den Oord et al.
+
 
 ## License
 
